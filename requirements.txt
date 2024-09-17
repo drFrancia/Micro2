@@ -1,0 +1,7 @@
+Flask               # Framework para construir APIs RESTful
+Flask-JWT-Extended  # Para manejar autenticación con JWT
+SQLAlchemy          # ORM para interactuar con la base de datos
+psycopg2-binary     # Driver para PostgreSQL (necesario para SQLAlchemy)
+Werkzeug            # Manejo de contraseñas (hashing)
+python-dotenv       # Para manejar variables de entorno desde un archivo .env (opcional)
+
